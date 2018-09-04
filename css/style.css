@@ -91,6 +91,10 @@ img, video, audio, iframe, table, form {
   margin-left: 0%;
 }
 
+.shadow {
+  box-shadow: 0 3px 10px #333;
+}
+
 /*/////// SOCIAL ////////*/
 
 #social {
